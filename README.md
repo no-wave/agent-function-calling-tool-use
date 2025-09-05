@@ -1,5 +1,7 @@
 # Function Calling과 Tool로 똑똑한 AI 에이전트 만들기
 
+<img src="https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252Fws6odpA7djJxUHH5Ub6H%252FFunction%2520Calling%2520%2526%2520Tool.png%3Falt%3Dmedia%26token%3Db16b60bf-1578-4a34-9b98-35f6a8f86afd&width=300&dpr=4&quality=100&sign=d8437dd&sv=2" width="500" height="707"/>
+
 
 ## 책 소개
 
@@ -40,8 +42,11 @@ References. 참고 문헌
 ## E-Book 구매
 
 Yes24: https://www.yes24.com/product/goods/153264467
+
 교보문고: https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011924893
+
 알라딘: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=371558324
+
 
 ## Github 코드
 
